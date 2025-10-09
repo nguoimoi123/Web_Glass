@@ -1,0 +1,284 @@
+[{
+  "_id": {
+    "$oid": "68d6739cf8c14e2603021a97"
+  },
+  "legacyId": 2,
+  "name": "Modern Square",
+  "price": 149.99,
+  "images": [
+    "https://images.unsplash.com/photo-1577803645773-f96470509666?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+    "https://images.unsplash.com/photo-1582142407894-ec8a32dcb9fe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+    "https://images.unsplash.com/photo-1625591339971-4c9a87a66871?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80"
+  ],
+  "image": "https://images.unsplash.com/photo-1577803645773-f96470509666?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+  "description": "Contemporary square frames with a bold look. Features premium quality materials with reinforced hinges for durability. The matte black finish gives these glasses a sophisticated edge.",
+  "categoryName": "Square",
+  "category": {
+    "$oid": "68d6739bf8c14e2603021a87"
+  },
+  "stock": 95,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-09-26T11:06:04.006Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-09T02:30:38.237Z"
+  },
+  "__v": 0,
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "68d6739cf8c14e2603021a99"
+  },
+  "legacyId": 3,
+  "name": "Cat Eye Classic",
+  "price": 159.99,
+  "images": [
+    "https://images.unsplash.com/photo-1614251055880-ee96e4803393?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+    "https://images.unsplash.com/photo-1591076482161-42ce6da69f67?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+    "https://images.unsplash.com/photo-1580870069867-74c57ee1bb07?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80"
+  ],
+  "image": "https://images.unsplash.com/photo-1614251055880-ee96e4803393?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+  "description": "Elegant cat eye frames that add a touch of vintage glamour. These frames feature a subtle upswept outer edge and are made from high-quality acetate with gold metal accents.",
+  "categoryName": "Cat Eye",
+  "category": {
+    "$oid": "68d6739bf8c14e2603021a89"
+  },
+  "stock": 98,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-09-26T11:06:04.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-04T09:01:18.063Z"
+  },
+  "__v": 0,
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "68d6739cf8c14e2603021a9b"
+  },
+  "legacyId": 4,
+  "name": "Aviator Gold",
+  "price": 179.99,
+  "images": [
+    "https://images.unsplash.com/photo-1572635196237-14b3f281503f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+    "https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+    "https://images.unsplash.com/photo-1508296695146-257a814070b4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80"
+  ],
+  "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+  "description": "Classic aviator style with a modern twist. These frames feature a thin gold-tone metal frame and adjustable nose pads for a comfortable fit. Perfect for those who want a timeless look.",
+  "categoryName": "Aviator",
+  "category": {
+    "$oid": "68d6739bf8c14e2603021a8b"
+  },
+  "stock": 100,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-09-26T11:06:04.096Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T14:26:53.167Z"
+  },
+  "__v": 0,
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "68d6739cf8c14e2603021a9d"
+  },
+  "legacyId": 5,
+  "name": "Rectangular Slim",
+  "price": 139.99,
+  "images": [
+    "https://images.unsplash.com/photo-1633620259589-17f46375faaa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+    "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+    "https://images.unsplash.com/photo-1577744168855-0391d2ed2b3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80"
+  ],
+  "image": "https://images.unsplash.com/photo-1633620259589-17f46375faaa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+  "description": "Slim rectangular frames that offer a professional look. These lightweight frames are perfect for all-day wear and feature spring hinges for added comfort and durability.",
+  "categoryName": "Rectangle",
+  "category": {
+    "$oid": "68d6739bf8c14e2603021a8d"
+  },
+  "stock": 100,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-09-26T11:06:04.135Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T14:26:56.641Z"
+  },
+  "__v": 0,
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "68d6739cf8c14e2603021a9f"
+  },
+  "legacyId": 6,
+  "name": "Oversized Glam",
+  "price": 189.99,
+  "images": [
+    "https://images.unsplash.com/photo-1591076482161-42ce6da69f67?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+    "https://images.unsplash.com/photo-1614251055880-ee96e4803393?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+    "https://images.unsplash.com/photo-1584036553516-bf83210aa16c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80"
+  ],
+  "image": "https://images.unsplash.com/photo-1591076482161-42ce6da69f67?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+  "description": "Make a statement with these oversized frames. Features a bold acetate frame with gradient tinting and decorative temple details. Perfect for those who want to stand out.",
+  "categoryName": "Oversized",
+  "category": {
+    "$oid": "68d6739bf8c14e2603021a8f"
+  },
+  "stock": 100,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-09-26T11:06:04.174Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T14:27:03.063Z"
+  },
+  "__v": 0,
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "68d6739cf8c14e2603021aa1"
+  },
+  "legacyId": 7,
+  "name": "Rimless Minimalist",
+  "price": 199.99,
+  "images": [
+    "https://images.unsplash.com/photo-1625591339971-4c9a87a66871?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+    "https://images.unsplash.com/photo-1633620259589-17f46375faaa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+    "https://images.unsplash.com/photo-1577803645773-f96470509666?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80"
+  ],
+  "image": "https://images.unsplash.com/photo-1625591339971-4c9a87a66871?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+  "description": "Elegant rimless design for a barely-there look. These sophisticated glasses feature high-quality titanium temples and are incredibly lightweight and comfortable for all-day wear.",
+  "categoryName": "Rimless",
+  "category": {
+    "$oid": "68d6739bf8c14e2603021a91"
+  },
+  "stock": 99,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-09-26T11:06:04.214Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-04T07:29:49.319Z"
+  },
+  "__v": 0,
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "68d6739cf8c14e2603021aa3"
+  },
+  "legacyId": 8,
+  "name": "Geometric Hexagon",
+  "price": 169.99,
+  "images": [
+    "https://images.unsplash.com/photo-1619089662078-7f0a56d2f211?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+    "https://images.unsplash.com/photo-1572635196237-14b3f281503f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+    "https://images.unsplash.com/photo-1591076482161-42ce6da69f67?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80"
+  ],
+  "image": "https://images.unsplash.com/photo-1619089662078-7f0a56d2f211?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+  "description": "Unique hexagonal frames for those who appreciate geometric design. These distinctive glasses feature premium acetate frames with a comfortable fit and durable construction.",
+  "categoryName": "Geometric",
+  "category": {
+    "$oid": "68d6739bf8c14e2603021a93"
+  },
+  "stock": 100,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-09-26T11:06:04.254Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T17:07:12.355Z"
+  },
+  "__v": 0,
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "68e0bcb2ea620fa5bbbd43c9"
+  },
+  "legacyId": 123,
+  "name": "213",
+  "price": 123,
+  "images": [
+    "/uploads/images-1759558855747.jpg"
+  ],
+  "description": "sad",
+  "categoryName": "Cat Eye",
+  "category": {
+    "$oid": "68d6739bf8c14e2603021a89"
+  },
+  "stock": 213,
+  "isActive": true,
+  "status": "Active",
+  "createdAt": {
+    "$date": "2025-10-04T06:20:34.905Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-04T07:08:48.417Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "68e0cc66102bd53d8c687b0a"
+  },
+  "legacyId": "1",
+  "name": "Vintage Round",
+  "price": 129.99,
+  "categoryName": "Round",
+  "category": {
+    "$oid": "68d6739bf8c14e2603021a85"
+  },
+  "stock": 100,
+  "status": "Active",
+  "isActive": true,
+  "description": "Classic round frames with a vintage touch. These lightweight glasses feature premium acetate frames and are perfect for everyday wear. Available in tortoise shell pattern with gold accents.",
+  "images": [
+    "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+    "https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+    "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80",
+    "https://images.unsplash.com/photo-1546180245-c59500ad14d0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=80"
+  ],
+  "createdAt": {
+    "$date": "2025-10-04T07:20:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-04T07:20:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e0d3dbaac1d93a47c4ca0d"
+  },
+  "legacyId": 123123,
+  "name": "xza321",
+  "price": 213,
+  "images": [
+    "/uploads/images-1759564762982.jpg"
+  ],
+  "description": "213",
+  "categoryName": "Round",
+  "category": {
+    "$oid": "68d6739bf8c14e2603021a85"
+  },
+  "stock": 231,
+  "isActive": true,
+  "status": "Active",
+  "createdAt": {
+    "$date": "2025-10-04T07:59:23.036Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-04T07:59:23.036Z"
+  },
+  "__v": 0
+}]

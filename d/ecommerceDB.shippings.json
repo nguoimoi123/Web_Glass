@@ -1,0 +1,230 @@
+[{
+  "_id": {
+    "$oid": "68d7b6aa8ded9113c3b79825"
+  },
+  "order": {
+    "$oid": "68d7b6aa8ded9113c3b7981f"
+  },
+  "fullName": "Test User",
+  "address": "123 Test St",
+  "city": "Test City",
+  "postalCode": "12345",
+  "country": "United States",
+  "phone": "1234567890",
+  "shippingMethod": "Standard",
+  "status": "preparing",
+  "createdAt": {
+    "$date": "2025-09-27T10:04:26.731Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-27T10:04:26.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d7ddd99f34a84e88a09718"
+  },
+  "order": {
+    "$oid": "68d7ddd99f34a84e88a09713"
+  },
+  "fullName": "123 123",
+  "address": "3123, 12312",
+  "city": "3123",
+  "postalCode": "312312",
+  "country": "United States",
+  "phone": "12312",
+  "shippingMethod": "Standard",
+  "status": "preparing",
+  "createdAt": {
+    "$date": "2025-09-27T12:51:37.160Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-27T12:51:37.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d7e02b9f34a84e88a0982f"
+  },
+  "order": {
+    "$oid": "68d7e02b9f34a84e88a0982a"
+  },
+  "fullName": "Quan Bui",
+  "address": "cong hoa, phuong 4",
+  "city": "Tan binh",
+  "postalCode": "736868",
+  "country": "United Kingdom",
+  "phone": "0347618559",
+  "shippingMethod": "Standard",
+  "status": "preparing",
+  "createdAt": {
+    "$date": "2025-09-27T13:01:31.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-27T13:01:31.239Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d7f209838bb77643c736f9"
+  },
+  "order": {
+    "$oid": "68d7f209838bb77643c736f4"
+  },
+  "fullName": "Quan Bui",
+  "address": "cong hoa, phuong 4",
+  "city": "Tan binh",
+  "postalCode": "736868",
+  "country": "United Kingdom",
+  "phone": "0347618559",
+  "shippingMethod": "Standard",
+  "status": "preparing",
+  "createdAt": {
+    "$date": "2025-09-27T14:17:45.782Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-27T14:17:45.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68dbec768531144d696d950c"
+  },
+  "order": {
+    "$oid": "68dbec768531144d696d9507"
+  },
+  "fullName": "Quan Bui",
+  "address": "cong hoa, phuong 4",
+  "city": "Tan binh",
+  "postalCode": "736868",
+  "country": "United Kingdom",
+  "phone": "0347618559",
+  "shippingMethod": "Standard",
+  "status": "preparing",
+  "createdAt": {
+    "$date": "2025-09-30T14:43:02.756Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-30T14:43:02.756Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68de0de74981b9ba03815845"
+  },
+  "order": {
+    "$oid": "68de0de74981b9ba03815840"
+  },
+  "fullName": "Quan Bui",
+  "address": "cong hoa, phuong 4",
+  "city": "Tan binh",
+  "postalCode": "736868",
+  "country": "United Kingdom",
+  "phone": "0347618559",
+  "shippingMethod": "Standard",
+  "status": "preparing",
+  "createdAt": {
+    "$date": "2025-10-02T05:30:15.897Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T05:30:15.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e009d76ed852322f39422f"
+  },
+  "order": {
+    "$oid": "68e009d76ed852322f39422a"
+  },
+  "fullName": "Quan Bui",
+  "address": "cong hoa, phuong 4",
+  "city": "Tan binh",
+  "postalCode": "736868",
+  "country": "United States",
+  "phone": "0347618559",
+  "shippingMethod": "Standard",
+  "status": "preparing",
+  "createdAt": {
+    "$date": "2025-10-03T17:37:27.815Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T17:37:27.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e0ccedaac1d93a47c4c7b9"
+  },
+  "order": {
+    "$oid": "68e0ccedaac1d93a47c4c7b4"
+  },
+  "fullName": "Quan Bui",
+  "address": "cong hoa, phuong 4",
+  "city": "Tan binh",
+  "postalCode": "736868",
+  "country": "United States",
+  "phone": "0347618559",
+  "shippingMethod": "Standard",
+  "status": "preparing",
+  "createdAt": {
+    "$date": "2025-10-04T07:29:49.467Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-04T07:29:49.467Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e0e25ec25faa7add58c2cc"
+  },
+  "order": {
+    "$oid": "68e0e25ec25faa7add58c2c7"
+  },
+  "fullName": "Quan Bui",
+  "address": "cong hoa, phuong 4",
+  "city": "Tan binh",
+  "postalCode": "736868",
+  "country": "United States",
+  "phone": "0347618559",
+  "shippingMethod": "Standard",
+  "status": "preparing",
+  "createdAt": {
+    "$date": "2025-10-04T09:01:18.222Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-04T09:01:18.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e71e4e7588b1035b2e4147"
+  },
+  "order": {
+    "$oid": "68e71e4e7588b1035b2e4142"
+  },
+  "fullName": "Quan Bui",
+  "address": "cong hoa, phuong 4",
+  "city": "Tan binh",
+  "postalCode": "736868",
+  "country": "United States",
+  "phone": "0347618559",
+  "shippingMethod": "Standard",
+  "status": "preparing",
+  "createdAt": {
+    "$date": "2025-10-09T02:30:38.538Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-09T02:30:38.538Z"
+  },
+  "__v": 0
+}]

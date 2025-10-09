@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "68d6739cf8c14e2603021aa5"
+  },
+  "name": "Round",
+  "frameWidth": "136mm - 142mm",
+  "lensWidth": "46mm - 50mm",
+  "bridgeWidth": "18mm - 22mm",
+  "templeLength": "140mm - 145mm",
+  "lensHeight": "42mm - 46mm",
+  "weight": "15g - 25g",
+  "faceShapes": [
+    "Square",
+    "Rectangle",
+    "Diamond",
+    "Heart"
+  ],
+  "createdAt": {
+    "$date": "2025-09-26T11:06:04.295Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T11:06:04.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d6739cf8c14e2603021aa7"
+  },
+  "name": "Square",
+  "frameWidth": "138mm - 144mm",
+  "lensWidth": "48mm - 52mm",
+  "bridgeWidth": "16mm - 20mm",
+  "templeLength": "140mm - 145mm",
+  "lensHeight": "44mm - 48mm",
+  "weight": "18g - 28g",
+  "faceShapes": [
+    "Round",
+    "Oval",
+    "Heart"
+  ],
+  "createdAt": {
+    "$date": "2025-09-26T11:06:04.334Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T11:06:04.334Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d6739cf8c14e2603021aa9"
+  },
+  "name": "Cat Eye",
+  "frameWidth": "134mm - 140mm",
+  "lensWidth": "45mm - 49mm",
+  "bridgeWidth": "16mm - 20mm",
+  "templeLength": "135mm - 140mm",
+  "lensHeight": "38mm - 44mm",
+  "weight": "16g - 24g",
+  "faceShapes": [
+    "Round",
+    "Oval",
+    "Square",
+    "Diamond"
+  ],
+  "createdAt": {
+    "$date": "2025-09-26T11:06:04.372Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T11:06:04.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d6739cf8c14e2603021aab"
+  },
+  "name": "Aviator",
+  "frameWidth": "140mm - 146mm",
+  "lensWidth": "50mm - 54mm",
+  "bridgeWidth": "14mm - 18mm",
+  "templeLength": "140mm - 150mm",
+  "lensHeight": "45mm - 50mm",
+  "weight": "14g - 22g",
+  "faceShapes": [
+    "Heart",
+    "Oval",
+    "Square",
+    "Triangle"
+  ],
+  "createdAt": {
+    "$date": "2025-09-26T11:06:04.412Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T11:06:04.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d6739cf8c14e2603021aad"
+  },
+  "name": "Rectangle",
+  "frameWidth": "138mm - 144mm",
+  "lensWidth": "50mm - 54mm",
+  "bridgeWidth": "16mm - 20mm",
+  "templeLength": "140mm - 145mm",
+  "lensHeight": "36mm - 40mm",
+  "weight": "18g - 26g",
+  "faceShapes": [
+    "Round",
+    "Oval",
+    "Heart"
+  ],
+  "createdAt": {
+    "$date": "2025-09-26T11:06:04.451Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T11:06:04.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d6739cf8c14e2603021aaf"
+  },
+  "name": "Oversized",
+  "frameWidth": "144mm - 150mm",
+  "lensWidth": "54mm - 58mm",
+  "bridgeWidth": "18mm - 22mm",
+  "templeLength": "145mm - 150mm",
+  "lensHeight": "48mm - 54mm",
+  "weight": "20g - 30g",
+  "faceShapes": [
+    "Heart",
+    "Oval",
+    "Diamond"
+  ],
+  "createdAt": {
+    "$date": "2025-09-26T11:06:04.490Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T11:06:04.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d6739cf8c14e2603021ab1"
+  },
+  "name": "Rimless",
+  "frameWidth": "134mm - 140mm",
+  "lensWidth": "48mm - 52mm",
+  "bridgeWidth": "16mm - 20mm",
+  "templeLength": "135mm - 140mm",
+  "lensHeight": "38mm - 42mm",
+  "weight": "10g - 18g",
+  "faceShapes": [
+    "All face shapes"
+  ],
+  "createdAt": {
+    "$date": "2025-09-26T11:06:04.529Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T11:06:04.529Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d6739cf8c14e2603021ab3"
+  },
+  "name": "Geometric",
+  "frameWidth": "136mm - 142mm",
+  "lensWidth": "48mm - 52mm",
+  "bridgeWidth": "18mm - 22mm",
+  "templeLength": "140mm - 145mm",
+  "lensHeight": "44mm - 48mm",
+  "weight": "16g - 26g",
+  "faceShapes": [
+    "Oval",
+    "Heart",
+    "Round"
+  ],
+  "createdAt": {
+    "$date": "2025-09-26T11:06:04.568Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T11:06:04.568Z"
+  },
+  "__v": 0
+}]

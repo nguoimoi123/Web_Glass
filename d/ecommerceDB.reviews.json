@@ -1,0 +1,365 @@
+[{
+  "_id": {
+    "$oid": "68d6739cf8c14e2603021ab6"
+  },
+  "product": {
+    "$oid": "68d6739bf8c14e2603021a95"
+  },
+  "legacyProductId": 1,
+  "author": "Sarah Johnson",
+  "rating": 5,
+  "title": "Perfect fit and style",
+  "comment": "These glasses are amazing! The quality is exceptional and they fit perfectly. I receive compliments every time I wear them.",
+  "verified": true,
+  "helpfulCount": 12,
+  "createdAt": {
+    "$date": "2025-09-26T11:06:04.648Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T11:06:04.648Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d6739cf8c14e2603021ab9"
+  },
+  "product": {
+    "$oid": "68d6739bf8c14e2603021a95"
+  },
+  "legacyProductId": 1,
+  "author": "Michael Chen",
+  "rating": 4,
+  "title": "Great quality, slightly large",
+  "comment": "The build quality is excellent and the lenses are crystal clear. They run slightly large for my face, but still comfortable overall.",
+  "verified": true,
+  "helpfulCount": 5,
+  "createdAt": {
+    "$date": "2025-09-26T11:06:04.727Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T11:06:04.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d6739cf8c14e2603021abc"
+  },
+  "product": {
+    "$oid": "68d6739bf8c14e2603021a95"
+  },
+  "legacyProductId": 1,
+  "author": "Emma Davis",
+  "rating": 5,
+  "title": "Stylish and durable",
+  "comment": "I've had these glasses for a month now and they've held up perfectly despite my active lifestyle. The vintage style is exactly what I was looking for.",
+  "verified": true,
+  "helpfulCount": 8,
+  "createdAt": {
+    "$date": "2025-09-26T11:06:04.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T11:06:04.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d6739cf8c14e2603021abf"
+  },
+  "product": {
+    "$oid": "68d6739cf8c14e2603021a97"
+  },
+  "legacyProductId": 2,
+  "author": "James Wilson",
+  "rating": 5,
+  "title": "Modern and sleek",
+  "comment": "These square frames are perfect for my face shape. The matte finish gives them a premium look and they're surprisingly lightweight.",
+  "verified": true,
+  "helpfulCount": 15,
+  "createdAt": {
+    "$date": "2025-09-26T11:06:04.875Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T11:06:04.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d6739cf8c14e2603021ac2"
+  },
+  "product": {
+    "$oid": "68d6739cf8c14e2603021a97"
+  },
+  "legacyProductId": 2,
+  "author": "Olivia Martinez",
+  "rating": 3,
+  "title": "Good but expected more",
+  "comment": "The style is nice but they feel a bit flimsy for the price. I was expecting more substantial construction.",
+  "verified": true,
+  "helpfulCount": 3,
+  "createdAt": {
+    "$date": "2025-09-26T11:06:04.950Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T11:06:04.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d6739df8c14e2603021ac5"
+  },
+  "product": {
+    "$oid": "68d6739cf8c14e2603021a99"
+  },
+  "legacyProductId": 3,
+  "author": "Sophia Lee",
+  "rating": 5,
+  "title": "Absolutely gorgeous!",
+  "comment": "These cat eye frames are stunning! They're comfortable, well-made, and give me that perfect retro look I was after.",
+  "verified": true,
+  "helpfulCount": 20,
+  "createdAt": {
+    "$date": "2025-09-26T11:06:05.025Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T11:06:05.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d6739df8c14e2603021ac8"
+  },
+  "product": {
+    "$oid": "68d6739cf8c14e2603021a9b"
+  },
+  "legacyProductId": 4,
+  "author": "Daniel Brown",
+  "rating": 4,
+  "title": "Classic style, great quality",
+  "comment": "The aviator style is timeless and these are well-made. The gold finish is subtle and elegant. Knocked off one star because the nose pads needed adjustment.",
+  "verified": true,
+  "helpfulCount": 7,
+  "createdAt": {
+    "$date": "2025-09-26T11:06:05.099Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T11:06:05.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d6739df8c14e2603021acb"
+  },
+  "product": {
+    "$oid": "68d6739cf8c14e2603021a9d"
+  },
+  "legacyProductId": 5,
+  "author": "Ava Taylor",
+  "rating": 5,
+  "title": "Perfect for work",
+  "comment": "These rectangular frames are professional looking and comfortable for all-day wear. I've received many compliments from colleagues.",
+  "verified": true,
+  "helpfulCount": 9,
+  "createdAt": {
+    "$date": "2025-09-26T11:06:05.174Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T11:06:05.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d6739df8c14e2603021ace"
+  },
+  "product": {
+    "$oid": "68d6739cf8c14e2603021a9f"
+  },
+  "legacyProductId": 6,
+  "author": "Noah Garcia",
+  "rating": 5,
+  "title": "Statement piece",
+  "comment": "These oversized frames make a statement! They're surprisingly lightweight and the quality is top-notch.",
+  "verified": true,
+  "helpfulCount": 14,
+  "createdAt": {
+    "$date": "2025-09-26T11:06:05.248Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T11:06:05.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d6739df8c14e2603021ad1"
+  },
+  "product": {
+    "$oid": "68d6739cf8c14e2603021aa1"
+  },
+  "legacyProductId": 7,
+  "author": "Isabella Rodriguez",
+  "rating": 4,
+  "title": "Nearly invisible",
+  "comment": "The rimless design is perfect for a subtle look. Very comfortable and lightweight, though I worry about durability over time.",
+  "verified": true,
+  "helpfulCount": 6,
+  "createdAt": {
+    "$date": "2025-09-26T11:06:05.324Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T11:06:05.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d6739df8c14e2603021ad4"
+  },
+  "product": {
+    "$oid": "68d6739cf8c14e2603021aa3"
+  },
+  "legacyProductId": 8,
+  "author": "Liam Thompson",
+  "rating": 5,
+  "title": "Unique and well-crafted",
+  "comment": "The hexagonal shape sets these apart from other glasses. They're well-made and comfortable. Definitely a conversation starter!",
+  "verified": true,
+  "helpfulCount": 11,
+  "createdAt": {
+    "$date": "2025-09-26T11:06:05.398Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-26T11:06:05.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68dbeaec8531144d696d944f"
+  },
+  "product": {
+    "$oid": "68d6739bf8c14e2603021a95"
+  },
+  "author": "Quan Bui",
+  "authorId": {
+    "$oid": "68d76220fd04b6b239837b9a"
+  },
+  "rating": 1,
+  "title": "1231",
+  "comment": "213",
+  "verified": true,
+  "helpfulCount": 0,
+  "createdAt": {
+    "$date": "2025-09-30T14:36:28.676Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-30T14:36:28.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68de0e354981b9ba03815876"
+  },
+  "product": {
+    "$oid": "68d6739bf8c14e2603021a95"
+  },
+  "author": "Quan Bui",
+  "authorId": {
+    "$oid": "68d76220fd04b6b239837b9a"
+  },
+  "rating": 3,
+  "title": "good",
+  "comment": "good",
+  "verified": true,
+  "helpfulCount": 0,
+  "createdAt": {
+    "$date": "2025-10-02T05:31:33.633Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T05:31:33.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68df74b462350aa21e22120e"
+  },
+  "product": {
+    "$oid": "68d6739cf8c14e2603021a97"
+  },
+  "author": "Quan Bui",
+  "authorId": {
+    "$oid": "68d76220fd04b6b239837b9a"
+  },
+  "rating": 1,
+  "title": "bad",
+  "comment": "bad",
+  "verified": true,
+  "helpfulCount": 0,
+  "status": "Rejected",
+  "createdAt": {
+    "$date": "2025-10-03T07:01:08.415Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T07:01:08.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e0e293c25faa7add58c316"
+  },
+  "product": {
+    "$oid": "68d6739cf8c14e2603021a99"
+  },
+  "author": "Quan Bui",
+  "authorId": {
+    "$oid": "68d76220fd04b6b239837b9a"
+  },
+  "rating": 1,
+  "title": "do",
+  "comment": "dếtts",
+  "verified": true,
+  "helpfulCount": 0,
+  "status": "Rejected",
+  "createdAt": {
+    "$date": "2025-10-04T09:02:11.747Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-04T09:02:11.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e71db37588b1035b2e4110"
+  },
+  "product": {
+    "$oid": "68d6739cf8c14e2603021a97"
+  },
+  "author": "Quan Bui",
+  "authorId": {
+    "$oid": "68d76220fd04b6b239837b9a"
+  },
+  "rating": 3,
+  "title": "",
+  "comment": "kinh nhu cac",
+  "verified": true,
+  "helpfulCount": 0,
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2025-10-09T02:28:03.336Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-09T02:28:03.336Z"
+  },
+  "__v": 0
+}]

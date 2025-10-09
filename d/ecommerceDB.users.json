@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "68d67d10101ab50c2b965fcf"
+  },
+  "firstName": "Quan",
+  "lastName": "Nguyen",
+  "email": "quan@email.com",
+  "passwordHash": "$2a$10$w1EiQLh6soP2t9G1btlJ3OHZceWXzRNvOz3VMHxxFvU7uGxB6yoX2",
+  "role": "user",
+  "wishlist": [],
+  "cart": [],
+  "createdAt": {
+    "$date": "2025-09-26T11:46:24.500Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T16:43:33.194Z"
+  },
+  "__v": 0,
+  "avatar": "/uploads/avatar-1759509813157.jpg",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "68d76220fd04b6b239837b9a"
+  },
+  "firstName": "Quan",
+  "lastName": "Bui",
+  "email": "buinguyenminhquan84@gmail.com",
+  "passwordHash": "$2a$10$SdAbw.i8Y9wKXKScL/kQkuL97y9Eg5cIREfEgh5VC6jmcHts73Yp2",
+  "role": "user",
+  "wishlist": [],
+  "cart": [],
+  "createdAt": {
+    "$date": "2025-09-27T04:03:44.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-09T02:29:20.384Z"
+  },
+  "__v": 0,
+  "lastLogin": {
+    "$date": "2025-10-09T02:29:20.383Z"
+  },
+  "status": "active",
+  "avatar": "/uploads/avatar-1759509871061.jpg"
+},
+{
+  "_id": {
+    "$oid": "68d79704c796dc13ab6e170e"
+  },
+  "firstName": "Quan",
+  "lastName": "Bui",
+  "email": "quan1@email.com",
+  "passwordHash": "$2a$10$QuQ2iqUF2idT6oMn6z/lPehwZWn2nfgOsimndHpKQ/j3UpSmY3TGq",
+  "role": "user",
+  "wishlist": [],
+  "cart": [],
+  "createdAt": {
+    "$date": "2025-09-27T07:49:24.151Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-27T07:49:24.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d797abc796dc13ab6e171e"
+  },
+  "firstName": "Nguyễn",
+  "lastName": "Văn B",
+  "email": "nguyenvanb@example.com",
+  "passwordHash": "$2a$10$/VNrd0dtLukwFvZXRTUOuOeXRRmIch2QW7u51dgMIP4GGlmJ1c352",
+  "role": "user",
+  "wishlist": [],
+  "cart": [],
+  "createdAt": {
+    "$date": "2025-09-27T07:52:11.450Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-27T07:52:11.450Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68dcc77886044f0fb8aaf019"
+  },
+  "firstName": "Admin",
+  "lastName": "Master",
+  "email": "admin@email.com",
+  "passwordHash": "$2a$10$uiHLn6E4EqeHhOKUQwISJem0ksn3aZFWEQAuPHp9k4W6k9pT/WMz2",
+  "role": "admin",
+  "wishlist": [],
+  "cart": [],
+  "createdAt": {
+    "$date": "2025-10-01T06:17:28.950Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-09T02:30:46.736Z"
+  },
+  "__v": 0,
+  "lastLogin": {
+    "$date": "2025-10-09T02:30:46.736Z"
+  },
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "68dffa89200b0c890d5833ed"
+  },
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "john@example.com",
+  "passwordHash": "$2a$10$.jVA.yxqyorJa0nEdlL3Nu3NEu57ytz.SMLynrchxVTtQcZb0ZqZW",
+  "role": "user",
+  "status": "active",
+  "lastLogin": null,
+  "wishlist": [],
+  "cart": [],
+  "createdAt": {
+    "$date": "2025-10-03T16:32:09.416Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-03T16:32:09.416Z"
+  },
+  "__v": 0
+}]

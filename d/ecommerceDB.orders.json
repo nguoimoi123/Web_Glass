@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "68e0ccedaac1d93a47c4c7b4"
+  },
+  "user": {
+    "$oid": "68d76220fd04b6b239837b9a"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "68d6739cf8c14e2603021aa1"
+      },
+      "quantity": 1,
+      "price": 199.99,
+      "_id": {
+        "$oid": "68e0ccedaac1d93a47c4c7b5"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "firstName": "Quan",
+    "lastName": "Bui",
+    "address": "cong hoa",
+    "apartment": "phuong 4",
+    "city": "Tan binh",
+    "state": "Thành phố Hồ Chí Minh",
+    "zipCode": "736868",
+    "country": "United States"
+  },
+  "billingAddress": {
+    "firstName": "Quan",
+    "lastName": "Bui",
+    "address": "cong hoa",
+    "apartment": "phuong 4",
+    "city": "Tan binh",
+    "state": "Thành phố Hồ Chí Minh",
+    "zipCode": "736868",
+    "country": "United States"
+  },
+  "paymentMethod": "credit_card",
+  "paymentDetails": {
+    "cardName": "412",
+    "cardNumber": "3123",
+    "cardExpiry": "231",
+    "cardCvc": "321"
+  },
+  "total": 219.989,
+  "status": "pending",
+  "email": "buinguyenminhquan84@gmail.com",
+  "phone": "0347618559",
+  "createdAt": {
+    "$date": "2025-10-04T07:29:49.369Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-04T07:29:49.516Z"
+  },
+  "__v": 0,
+  "payment": {
+    "$oid": "68e0ccedaac1d93a47c4c7b7"
+  },
+  "shipping": {
+    "$oid": "68e0ccedaac1d93a47c4c7b9"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e0e25ec25faa7add58c2c7"
+  },
+  "user": {
+    "$oid": "68d76220fd04b6b239837b9a"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "68d6739cf8c14e2603021a99"
+      },
+      "quantity": 2,
+      "price": 159.99,
+      "_id": {
+        "$oid": "68e0e25ec25faa7add58c2c8"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "firstName": "Quan",
+    "lastName": "Bui",
+    "address": "cong hoa",
+    "apartment": "phuong 4",
+    "city": "Tan binh",
+    "state": "Thành phố Hồ Chí Minh",
+    "zipCode": "736868",
+    "country": "United States"
+  },
+  "billingAddress": {
+    "firstName": "Quan",
+    "lastName": "Bui",
+    "address": "cong hoa",
+    "apartment": "phuong 4",
+    "city": "Tan binh",
+    "state": "Thành phố Hồ Chí Minh",
+    "zipCode": "736868",
+    "country": "United States"
+  },
+  "paymentMethod": "credit_card",
+  "paymentDetails": {
+    "cardName": "tydf",
+    "cardNumber": "vbhjv",
+    "cardExpiry": "vjhjv",
+    "cardCvc": "yyju"
+  },
+  "total": 351.978,
+  "status": "pending",
+  "email": "buinguyenminhquan84@gmail.com",
+  "phone": "0347618559",
+  "createdAt": {
+    "$date": "2025-10-04T09:01:18.117Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-04T09:01:18.274Z"
+  },
+  "__v": 0,
+  "payment": {
+    "$oid": "68e0e25ec25faa7add58c2ca"
+  },
+  "shipping": {
+    "$oid": "68e0e25ec25faa7add58c2cc"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e71e4e7588b1035b2e4142"
+  },
+  "user": {
+    "$oid": "68d76220fd04b6b239837b9a"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "68d6739cf8c14e2603021a97"
+      },
+      "quantity": 1,
+      "price": 149.99,
+      "_id": {
+        "$oid": "68e71e4e7588b1035b2e4143"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "firstName": "Quan",
+    "lastName": "Bui",
+    "address": "cong hoa",
+    "apartment": "phuong 4",
+    "city": "Tan binh",
+    "state": "Thành phố Hồ Chí Minh",
+    "zipCode": "736868",
+    "country": "United States"
+  },
+  "billingAddress": {
+    "firstName": "Quan",
+    "lastName": "Bui",
+    "address": "cong hoa",
+    "apartment": "phuong 4",
+    "city": "Tan binh",
+    "state": "Thành phố Hồ Chí Minh",
+    "zipCode": "736868",
+    "country": "United States"
+  },
+  "paymentMethod": "credit_card",
+  "paymentDetails": {
+    "cardName": "44444",
+    "cardNumber": "444",
+    "cardExpiry": "444",
+    "cardCvc": "444"
+  },
+  "total": 164.989,
+  "status": "processing",
+  "email": "buinguyenminhquan84@gmail.com",
+  "phone": "0347618559",
+  "createdAt": {
+    "$date": "2025-10-09T02:30:38.350Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-09T02:33:00.236Z"
+  },
+  "__v": 0,
+  "payment": {
+    "$oid": "68e71e4e7588b1035b2e4145"
+  },
+  "shipping": {
+    "$oid": "68e71e4e7588b1035b2e4147"
+  }
+}]
