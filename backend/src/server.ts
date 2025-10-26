@@ -12,11 +12,12 @@ import cartRoutes from "./routes/cartRoutes";
 import wishlistRoutes from "./routes/wishlistRoutes";
 import orderRoutes from "./routes/orderRoutes";
 import categoryRoutes from "./routes/categoryRoutes";
+import chatbotRoutes from "./routes/chatbotRoutes";
 
 
 dotenv.config();
 const app: Application = express();
-const allowedOrigins = ["http://localhost:5173", "http://localhost:5174"];
+const allowedOrigins = ["http://localhost:5173", "http://localhost:5174","https://367tr1k9-5173.asse.devtunnels.ms/" ];
 // Kết nối MongoDB
 connectDB();
 
@@ -63,9 +64,9 @@ app.use("/api/auth", authRoutes);
 app.use("/api/users", userRoutes);
 app.use("/api/cart", cartRoutes);
 app.use("/api/wishlist", wishlistRoutes);
-app.use("/api/orders", orderRoutes); // ← QUAN TRỌNG: ĐẢM BẢO DÒNG NÀY TỒN TẠI
+app.use("/api/orders", orderRoutes); 
 app.use("/api/categories", categoryRoutes);
-
+app.use("/api/chatbot", chatbotRoutes);
 // 6. ERROR HANDLING - THÊM 404 HANDLER
 app.use('*', (req, res) => {
 

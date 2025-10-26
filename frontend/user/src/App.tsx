@@ -18,6 +18,7 @@ import { Register } from './pages/Register';
 import { Account } from './pages/Account';
 import { Checkout } from './pages/Checkout';
 import { NotFound } from './pages/NotFound';
+import  ChatBot from './components/Chatbot';
 export function App() {
   return <UserProvider>
       <CartProvider>
@@ -43,6 +44,7 @@ export function App() {
                   </Routes>
                 </main>
                 <Footer />
+                <ChatBot />
               </div>
             </Router>
           </RecentlyViewedProvider>
