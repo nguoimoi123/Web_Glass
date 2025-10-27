@@ -4,6 +4,7 @@ import { CartProvider } from './context/CartContext';
 import { WishlistProvider } from './context/WishlistContext';
 import { RecentlyViewedProvider } from './context/RecentlyViewedContext';
 import { UserProvider } from './context/UserContext';
+import { WebSocketProvider } from './context/WebSocketContext';
 import { Navigation } from './components/Navigation';
 import { Footer } from './components/Footer';
 import { Home } from './pages/Home';
@@ -19,11 +20,13 @@ import { Account } from './pages/Account';
 import { Checkout } from './pages/Checkout';
 import { NotFound } from './pages/NotFound';
 import  ChatBot from './components/Chatbot';
+import MessageWidget from './components/MessageWidget';
 export function App() {
   return <UserProvider>
       <CartProvider>
         <WishlistProvider>
           <RecentlyViewedProvider>
+             <WebSocketProvider>
             <Router>
               <div className="flex flex-col min-h-screen">
                 <Navigation />
@@ -44,9 +47,13 @@ export function App() {
                   </Routes>
                 </main>
                 <Footer />
-                <ChatBot />
+                <div className="fixed bottom-4 right-4 flex flex-col gap-3 z-50">
+                  <ChatBot />
+                  <MessageWidget />
+                </div>
               </div>
             </Router>
+            </WebSocketProvider>
           </RecentlyViewedProvider>
         </WishlistProvider>
       </CartProvider>

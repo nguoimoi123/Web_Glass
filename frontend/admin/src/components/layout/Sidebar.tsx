@@ -34,6 +34,10 @@ const Sidebar: React.FC = () => {
     path: '/users',
     icon: <Users size={20} />
   }, {
+    name: 'Messages',
+    path: '/messages',
+    icon: <MessageSquare size={20} />
+  },{
     name: 'Reviews',
     path: '/reviews',
     icon: <MessageSquare size={20} />

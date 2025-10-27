@@ -6,7 +6,7 @@ export interface AuthUser {
   firstName: string;
   lastName: string;
   email: string;
-  role: number;          // 0 = user, 1 = admin (theo cấu trúc bạn đã dùng)
+  role: "admin" | "user";      
 }
 
 export interface AuthRequest extends Request {

@@ -86,11 +86,16 @@ const ChatBot: React.FC = () => {
       {!isOpen && (
         <button
           onClick={() => setIsOpen(true)}
-          className="fixed bottom-6 right-6 bg-orange-500 text-white p-4 rounded-full shadow-lg hover:bg-orange-600 transition-all duration-300 z-50 flex items-center gap-2"
+          className="group fixed bottom-6 right-6 flex items-center bg-orange-500 text-white p-4 rounded-full shadow-lg hover:bg-orange-600 transition-all duration-300 z-50 overflow-hidden"
           aria-label="Open chat"
         >
-          <MessageCircle size={24} />
-          <span className="font-medium">Chat with us</span>
+          {/* Icon luôn hiển thị */}
+          <MessageCircle size={24} className="flex-shrink-0" />
+
+          {/* Text chỉ hiện khi hover */}
+          <span className="ml-2 font-medium opacity-0 max-w-0 group-hover:max-w-xs group-hover:opacity-100 transition-all duration-300 ease-in-out whitespace-nowrap overflow-hidden">
+            Chat with Assistant
+          </span>
         </button>
       )}
 
